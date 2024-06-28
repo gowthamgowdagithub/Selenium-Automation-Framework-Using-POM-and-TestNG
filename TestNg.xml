@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="mySuite">
+<listeners>
+<listener class-name="com.training.Utilities.TestListeners"></listener>
+</listeners>
+<test name="MyTest1">
+<parameter name="browserName" value="chrome"></parameter>
+<classes>
+<class name="com.training.Test.SalesForceLoginTestCases"></class>
+</classes>
+</test>
+</suite>

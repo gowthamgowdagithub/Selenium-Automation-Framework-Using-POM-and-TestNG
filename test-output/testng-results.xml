@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-23T18:07:26 GMT-07:00" name="mySuite" finished-at="2024-06-23T18:08:08 GMT-07:00" duration-ms="41980">
+    <groups>
+    </groups>
+    <test started-at="2024-06-23T18:07:26 GMT-07:00" name="MyTest1" finished-at="2024-06-23T18:08:08 GMT-07:00" duration-ms="41980">
+      <class name="com.training.Test.SalesForceLoginTestCases">
+        <test-method is-config="true" signature="beforeMethodStart(java.lang.String)[pri:0, instance:com.training.Test.SalesForceLoginTestCases@4097cac]" started-at="2024-06-23T18:07:26 GMT-07:00" name="beforeMethodStart" finished-at="2024-06-23T18:07:31 GMT-07:00" duration-ms="5479" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodStart -->
+        <test-method signature="TestCase1()[pri:0, instance:com.training.Test.SalesForceLoginTestCases@4097cac]" started-at="2024-06-23T18:07:31 GMT-07:00" name="TestCase1" finished-at="2024-06-23T18:07:34 GMT-07:00" duration-ms="2775" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase1 -->
+        <test-method is-config="true" signature="afterMethodEnds()[pri:0, instance:com.training.Test.SalesForceLoginTestCases@4097cac]" started-at="2024-06-23T18:07:34 GMT-07:00" name="afterMethodEnds" finished-at="2024-06-23T18:07:35 GMT-07:00" duration-ms="396" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodEnds -->
+        <test-method is-config="true" signature="beforeMethodStart(java.lang.String)[pri:0, instance:com.training.Test.SalesForceLoginTestCases@4097cac]" started-at="2024-06-23T18:07:35 GMT-07:00" name="beforeMethodStart" finished-at="2024-06-23T18:07:37 GMT-07:00" duration-ms="2291" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodStart -->
+        <test-method signature="TestCase2()[pri:0, instance:com.training.Test.SalesForceLoginTestCases@4097cac]" started-at="2024-06-23T18:07:37 GMT-07:00" name="TestCase2" finished-at="2024-06-23T18:07:43 GMT-07:00" duration-ms="6235" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase2 -->
+        <test-method is-config="true" signature="afterMethodEnds()[pri:0, instance:com.training.Test.SalesForceLoginTestCases@4097cac]" started-at="2024-06-23T18:07:43 GMT-07:00" name="afterMethodEnds" finished-at="2024-06-23T18:07:43 GMT-07:00" duration-ms="226" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodEnds -->
+        <test-method is-config="true" signature="beforeMethodStart(java.lang.String)[pri:0, instance:com.training.Test.SalesForceLoginTestCases@4097cac]" started-at="2024-06-23T18:07:43 GMT-07:00" name="beforeMethodStart" finished-at="2024-06-23T18:07:46 GMT-07:00" duration-ms="2384" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodStart -->
+        <test-method signature="TestCase3()[pri:0, instance:com.training.Test.SalesForceLoginTestCases@4097cac]" started-at="2024-06-23T18:07:46 GMT-07:00" name="TestCase3" finished-at="2024-06-23T18:07:56 GMT-07:00" duration-ms="10514" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase3 -->
+        <test-method is-config="true" signature="afterMethodEnds()[pri:0, instance:com.training.Test.SalesForceLoginTestCases@4097cac]" started-at="2024-06-23T18:07:56 GMT-07:00" name="afterMethodEnds" finished-at="2024-06-23T18:07:56 GMT-07:00" duration-ms="189" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodEnds -->
+        <test-method is-config="true" signature="beforeMethodStart(java.lang.String)[pri:0, instance:com.training.Test.SalesForceLoginTestCases@4097cac]" started-at="2024-06-23T18:07:56 GMT-07:00" name="beforeMethodStart" finished-at="2024-06-23T18:07:59 GMT-07:00" duration-ms="2441" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodStart -->
+        <test-method signature="TestCase4()[pri:0, instance:com.training.Test.SalesForceLoginTestCases@4097cac]" started-at="2024-06-23T18:07:59 GMT-07:00" name="TestCase4" finished-at="2024-06-23T18:08:02 GMT-07:00" duration-ms="3186" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase4 -->
+        <test-method is-config="true" signature="afterMethodEnds()[pri:0, instance:com.training.Test.SalesForceLoginTestCases@4097cac]" started-at="2024-06-23T18:08:02 GMT-07:00" name="afterMethodEnds" finished-at="2024-06-23T18:08:02 GMT-07:00" duration-ms="316" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodEnds -->
+        <test-method is-config="true" signature="beforeMethodStart(java.lang.String)[pri:0, instance:com.training.Test.SalesForceLoginTestCases@4097cac]" started-at="2024-06-23T18:08:02 GMT-07:00" name="beforeMethodStart" finished-at="2024-06-23T18:08:05 GMT-07:00" duration-ms="2208" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodStart -->
+        <test-method signature="TestCase5()[pri:0, instance:com.training.Test.SalesForceLoginTestCases@4097cac]" started-at="2024-06-23T18:08:05 GMT-07:00" name="TestCase5" finished-at="2024-06-23T18:08:07 GMT-07:00" duration-ms="2850" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase5 -->
+        <test-method is-config="true" signature="afterMethodEnds()[pri:0, instance:com.training.Test.SalesForceLoginTestCases@4097cac]" started-at="2024-06-23T18:08:07 GMT-07:00" name="afterMethodEnds" finished-at="2024-06-23T18:08:08 GMT-07:00" duration-ms="275" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodEnds -->
+      </class> <!-- com.training.Test.SalesForceLoginTestCases -->
+    </test> <!-- MyTest1 -->
+  </suite> <!-- mySuite -->
+</testng-results>
